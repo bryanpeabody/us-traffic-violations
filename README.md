@@ -5,7 +5,9 @@ Data and Python files for looking at US traffic violation data between Jan 1, 20
 ### How do I get set up? ###
 
 -In data/ unzip the data file.
+
 -Install pandas and matplotlib, if you haven't already.
+
 -Run any of the Python files.
 
 ### Website

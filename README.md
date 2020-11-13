@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Data and Python files for looking at US traffic violation data between Jan 1, 2012 and Dec 31, 2019.
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+-In data/ unzip the data file.
+-Install pandas and matplotlib, if you haven't already.
+-Run any of the Python files.
 
-### Contribution guidelines ###
+### Website
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Details about this project here: https://www.bryanpeabody.com/projects/data-study-traffic-violations_by_car_color/
